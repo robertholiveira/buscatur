@@ -1,0 +1,752 @@
+[
+	{
+		"id": 63811,
+		"agentId": 22353,
+		"title": "Experiência incrível em Cabo ",
+		"slug": "earum-provident-adipisci",
+		"content": "Dolores tempora distinctio. Excepturi reprehenderit blanditiis quibusdam reprehenderit non quo atque sunt. Sint sed sit ut et doloremque amet reprehenderit.",
+		"status": "draft",
+		"price": "650",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Good",
+		"rating": 5,
+		"ratingCount": 12,
+		"contactNumber": "(352) 594-5474 x93019",
+		"amenities": [
+			{
+				"id": 17643,
+				"guestRoom": 7
+			},
+			{
+				"id": 23712,
+				"bedRoom": 1
+			},
+			{
+				"id": 47458,
+				"wifiAvailability": false
+			},
+			{
+				"id": 82666,
+				"parkingAvailability": true
+			},
+			{
+				"id": 46037,
+				"poolAvailability": true
+			},
+			{
+				"id": 20784,
+				"airCondition": false
+			},
+			{
+				"id": 63472,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 52861,
+			"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/174/174324037.jpg"
+		},
+		"location": {
+			"id": 23076,
+			"lat": 40.8214,
+			"lng": -75.2052,
+			"formattedAddress": "Com almoço e jantar",
+			"zipcode": "63836-1545",
+			"city": "Uptonmouth",
+			"state_long": "Virginia",
+			"state_short": "NJ",
+			"country_long": "Qatar",
+			"country_short": "GT"
+		},
+		"gallery": [
+			{
+				"id": 98348,
+				"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/174/174324037.jpg"
+			},
+			{
+				"id": 10832,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13_thumb.jpg"
+			},
+			{
+				"id": 70635,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14_thumb.jpg"
+			}
+		]
+	},
+	{
+		"id": 35137,
+		"agentId": 63123,
+		"title": "5 dias em Paraty",
+		"slug": "numquam-distinctio-eius",
+		"content": "Com almoço",
+		"status": "publish",
+		"price": "245",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Good",
+		"rating": 3.5,
+		"ratingCount": 11,
+		"contactNumber": "1-619-861-6069 x3877",
+		"amenities": [
+			{
+				"id": 42547,
+				"guestRoom": 7
+			},
+			{
+				"id": 59276,
+				"bedRoom": 4
+			},
+			{
+				"id": 26908,
+				"wifiAvailability": true
+			},
+			{
+				"id": 48314,
+				"parkingAvailability": false
+			},
+			{
+				"id": 15833,
+				"poolAvailability": false
+			},
+			{
+				"id": 12431,
+				"airCondition": false
+			},
+			{
+				"id": 59575,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 91141,
+			"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/100/100960270.jpg"
+		},
+		"location": {
+			"id": 10393,
+			"lat": 40.8453,
+			"lng": -76.0512,
+			"formattedAddress": "Com almoço",
+			"zipcode": "87445",
+			"city": "Loraineberg",
+			"state_long": "Nebraska",
+			"state_short": "NJ",
+			"country_long": "Central African Republic",
+			"country_short": "NG"
+		},
+		"gallery": [
+			{
+				"id": 99115,
+				"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/100/100960270.jpg"
+			},
+			{
+				"id": 27188,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19_thumb.jpg"
+			},
+			{
+				"id": 33855,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20_thumb.jpg"
+			}
+		]
+	},
+	{
+		"id": 91552,
+		"agentId": 9488,
+		"title": "Fim de semana em Campos do Jordão",
+		"slug": "nobis-et-et",
+		"content": "Labore voluptatem laborum quod est. Nihil voluptates et praesentium quis. Culpa est ut voluptatem molestiae sint non veritatis suscipit ab. Quia accusamus laudantium aut eaque minus architecto voluptatem vero maxime. Libero minima aperiam provident rerum autem voluptatem veniam est quos.",
+		"status": "draft",
+		"price": "660",
+		"isNegotiable": false,
+		"propertyType": "Villa",
+		"condition": "Average",
+		"rating": 3.9,
+		"ratingCount": 8,
+		"contactNumber": "(484) 092-0621 x11827",
+		"amenities": [
+			{
+				"id": 43134,
+				"guestRoom": 3
+			},
+			{
+				"id": 44490,
+				"bedRoom": 6
+			},
+			{
+				"id": 43432,
+				"wifiAvailability": false
+			},
+			{
+				"id": 60072,
+				"parkingAvailability": false
+			},
+			{
+				"id": 80885,
+				"poolAvailability": true
+			},
+			{
+				"id": 39788,
+				"airCondition": false
+			},
+			{
+				"id": 28924,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 14297,
+			"url": "https://naturam.com.br/wp-content/uploads/2018/01/campos-do-jordao-naturam.jpg"
+		},
+		"location": {
+			"id": 93702,
+			"lat": 40.4451,
+			"lng": -79.9184,
+			"formattedAddress": "Com tour pela cidade",
+			"zipcode": "27499-3830",
+			"city": "Vincetown",
+			"state_long": "Maine",
+			"state_short": "PA",
+			"country_long": "Belarus",
+			"country_short": "BQ"
+		},
+		"gallery": [
+			{
+				"id": 35180,
+				"url": "https://naturam.com.br/wp-content/uploads/2018/01/campos-do-jordao-naturam.jpg"
+			},
+			{
+				"id": 27573,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5_thumb.jpg"
+			},
+			{
+				"id": 68402,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6_thumb.jpg"
+			}
+		]
+	},
+	{
+		"id": 26601,
+		"agentId": 61604,
+		"title": "Venha aproveitar Guarapari",
+		"slug": "eum-voluptas-tempore",
+		"content": "Natus provident voluptatum quibusdam minima non officiis beatae. Nobis est architecto sequi laboriosam id maiores harum et. Quo dolores consequuntur nostrum ullam sapiente asperiores itaque dolores. Et nobis voluptatem dolores corrupti accusantium. Magni voluptas quis inventore.",
+		"status": "draft",
+		"price": "560",
+		"isNegotiable": false,
+		"propertyType": "Villa",
+		"condition": "Average",
+		"rating": 4.5,
+		"ratingCount": 5,
+		"contactNumber": "150.663.2821",
+		"amenities": [
+			{
+				"id": 70472,
+				"guestRoom": 6
+			},
+			{
+				"id": 88236,
+				"bedRoom": 6
+			},
+			{
+				"id": 29649,
+				"wifiAvailability": true
+			},
+			{
+				"id": 70319,
+				"parkingAvailability": true
+			},
+			{
+				"id": 78746,
+				"poolAvailability": false
+			},
+			{
+				"id": 78269,
+				"airCondition": true
+			},
+			{
+				"id": 95269,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 22340,
+			"url": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/26/79/2679442_v1.jpeg"
+		},
+		"location": {
+			"id": 81726,
+			"lat": 44.0543,
+			"lng": -71.393,
+			"formattedAddress": "Com almoço e jantar",
+			"zipcode": "85094-6329",
+			"city": "Lake Taylorstad",
+			"state_long": "West Virginia",
+			"state_short": "IA",
+			"country_long": "Botswana",
+			"country_short": "DO"
+		},
+		"gallery": [
+			{
+				"id": 70509,
+				"url": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/26/79/2679442_v1.jpeg"
+			},
+			{
+				"id": 32412,
+				"url": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/26/79/2679442_v1.jpeg"
+			},
+			{
+				"id": 12967,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12_thumb.jpg"
+			}
+		]
+	},
+	{
+		"id": 13498,
+		"agentId": 52252,
+		"title": "Pousada em Foz do Iguaçu",
+		"slug": "eligendi-ex-ut",
+		"content": "Adipisci illum fugiat. Tempore est fugiat. Facere veritatis assumenda rem dolor.",
+		"status": "publish",
+		"price": "560",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 8,
+		"contactNumber": "492.701.7429 x567",
+		"amenities": [
+			{
+				"id": 76686,
+				"guestRoom": 6
+			},
+			{
+				"id": 18771,
+				"bedRoom": 8
+			},
+			{
+				"id": 54155,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22192,
+				"parkingAvailability": true
+			},
+			{
+				"id": 5566,
+				"poolAvailability": false
+			},
+			{
+				"id": 48604,
+				"airCondition": false
+			},
+			{
+				"id": 15424,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 60214,
+			"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/973/97363959.jpg"
+		},
+		"location": {
+			"id": 82805,
+			"lat": 43.0992,
+			"lng": -78.9296,
+			"formattedAddress": "Com tour e almoço",
+			"zipcode": "58291-9076",
+			"city": "Kilbackland",
+			"state_long": "Wisconsin",
+			"state_short": "WV",
+			"country_long": "Denmark",
+			"country_short": "GH"
+		},
+		"gallery": [
+			{
+				"id": 7788,
+				"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/973/97363959.jpg"
+			},
+			{
+				"id": 21707,
+				"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/973/97363959.jpg"
+			},
+			{
+				"id": 7459,
+				"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/973/97363959.jpgg"
+			}
+		]
+	},
+	{
+		"id": 13498,
+		"agentId": 52252,
+		"title": "Pousada em Foz do Iguaçu",
+		"slug": "eligendi-ex-ut",
+		"content": "Adipisci illum fugiat. Tempore est fugiat. Facere veritatis assumenda rem dolor.",
+		"status": "publish",
+		"price": "560",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 8,
+		"contactNumber": "492.701.7429 x567",
+		"amenities": [
+			{
+				"id": 76686,
+				"guestRoom": 6
+			},
+			{
+				"id": 18771,
+				"bedRoom": 8
+			},
+			{
+				"id": 54155,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22192,
+				"parkingAvailability": true
+			},
+			{
+				"id": 5566,
+				"poolAvailability": false
+			},
+			{
+				"id": 48604,
+				"airCondition": false
+			},
+			{
+				"id": 15424,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 60214,
+			"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/973/97363959.jpg"
+		},
+		"location": {
+			"id": 82805,
+			"lat": 43.0992,
+			"lng": -78.9296,
+			"formattedAddress": "Com tour e almoço",
+			"zipcode": "58291-9076",
+			"city": "Kilbackland",
+			"state_long": "Wisconsin",
+			"state_short": "WV",
+			"country_long": "Denmark",
+			"country_short": "GH"
+		},
+		"gallery": [
+			{
+				"id": 7788,
+				"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/973/97363959.jpg"
+			},
+			{
+				"id": 21707,
+				"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/973/97363959.jpg"
+			},
+			{
+				"id": 7459,
+				"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/973/97363959.jpgg"
+			}
+		]
+	},
+	{
+		"id": 63811,
+		"agentId": 22353,
+		"title": "Experiência incrível em Cabo ",
+		"slug": "earum-provident-adipisci",
+		"content": "Dolores tempora distinctio. Excepturi reprehenderit blanditiis quibusdam reprehenderit non quo atque sunt. Sint sed sit ut et doloremque amet reprehenderit.",
+		"status": "draft",
+		"price": "650",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Good",
+		"rating": 5,
+		"ratingCount": 12,
+		"contactNumber": "(352) 594-5474 x93019",
+		"amenities": [
+			{
+				"id": 17643,
+				"guestRoom": 7
+			},
+			{
+				"id": 23712,
+				"bedRoom": 1
+			},
+			{
+				"id": 47458,
+				"wifiAvailability": false
+			},
+			{
+				"id": 82666,
+				"parkingAvailability": true
+			},
+			{
+				"id": 46037,
+				"poolAvailability": true
+			},
+			{
+				"id": 20784,
+				"airCondition": false
+			},
+			{
+				"id": 63472,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 52861,
+			"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/174/174324037.jpg"
+		},
+		"location": {
+			"id": 23076,
+			"lat": 40.8214,
+			"lng": -75.2052,
+			"formattedAddress": "Com almoço e jantar",
+			"zipcode": "63836-1545",
+			"city": "Uptonmouth",
+			"state_long": "Virginia",
+			"state_short": "NJ",
+			"country_long": "Qatar",
+			"country_short": "GT"
+		},
+		"gallery": [
+			{
+				"id": 98348,
+				"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/174/174324037.jpg"
+			},
+			{
+				"id": 10832,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13_thumb.jpg"
+			},
+			{
+				"id": 70635,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14_thumb.jpg"
+			}
+		]
+	},
+	{
+		"id": 35137,
+		"agentId": 63123,
+		"title": "5 dias em Paraty",
+		"slug": "numquam-distinctio-eius",
+		"content": "Com almoço",
+		"status": "publish",
+		"price": "245",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Good",
+		"rating": 3.5,
+		"ratingCount": 11,
+		"contactNumber": "1-619-861-6069 x3877",
+		"amenities": [
+			{
+				"id": 42547,
+				"guestRoom": 7
+			},
+			{
+				"id": 59276,
+				"bedRoom": 4
+			},
+			{
+				"id": 26908,
+				"wifiAvailability": true
+			},
+			{
+				"id": 48314,
+				"parkingAvailability": false
+			},
+			{
+				"id": 15833,
+				"poolAvailability": false
+			},
+			{
+				"id": 12431,
+				"airCondition": false
+			},
+			{
+				"id": 59575,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 91141,
+			"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/100/100960270.jpg"
+		},
+		"location": {
+			"id": 10393,
+			"lat": 40.8453,
+			"lng": -76.0512,
+			"formattedAddress": "Com almoço",
+			"zipcode": "87445",
+			"city": "Loraineberg",
+			"state_long": "Nebraska",
+			"state_short": "NJ",
+			"country_long": "Central African Republic",
+			"country_short": "NG"
+		},
+		"gallery": [
+			{
+				"id": 99115,
+				"url": "https://q-cf.bstatic.com/images/hotel/max1024x768/100/100960270.jpg"
+			},
+			{
+				"id": 27188,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19_thumb.jpg"
+			},
+			{
+				"id": 33855,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20_thumb.jpg"
+			}
+		]
+	},
+	{
+		"id": 91552,
+		"agentId": 9488,
+		"title": "Fim de semana em Campos do Jordão",
+		"slug": "nobis-et-et",
+		"content": "Labore voluptatem laborum quod est. Nihil voluptates et praesentium quis. Culpa est ut voluptatem molestiae sint non veritatis suscipit ab. Quia accusamus laudantium aut eaque minus architecto voluptatem vero maxime. Libero minima aperiam provident rerum autem voluptatem veniam est quos.",
+		"status": "draft",
+		"price": "660",
+		"isNegotiable": false,
+		"propertyType": "Villa",
+		"condition": "Average",
+		"rating": 3.9,
+		"ratingCount": 8,
+		"contactNumber": "(484) 092-0621 x11827",
+		"amenities": [
+			{
+				"id": 43134,
+				"guestRoom": 3
+			},
+			{
+				"id": 44490,
+				"bedRoom": 6
+			},
+			{
+				"id": 43432,
+				"wifiAvailability": false
+			},
+			{
+				"id": 60072,
+				"parkingAvailability": false
+			},
+			{
+				"id": 80885,
+				"poolAvailability": true
+			},
+			{
+				"id": 39788,
+				"airCondition": false
+			},
+			{
+				"id": 28924,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 14297,
+			"url": "https://naturam.com.br/wp-content/uploads/2018/01/campos-do-jordao-naturam.jpg"
+		},
+		"location": {
+			"id": 93702,
+			"lat": 40.4451,
+			"lng": -79.9184,
+			"formattedAddress": "Com tour pela cidade",
+			"zipcode": "27499-3830",
+			"city": "Vincetown",
+			"state_long": "Maine",
+			"state_short": "PA",
+			"country_long": "Belarus",
+			"country_short": "BQ"
+		},
+		"gallery": [
+			{
+				"id": 35180,
+				"url": "https://naturam.com.br/wp-content/uploads/2018/01/campos-do-jordao-naturam.jpg"
+			},
+			{
+				"id": 27573,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5_thumb.jpg"
+			},
+			{
+				"id": 68402,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6_thumb.jpg"
+			}
+		]
+	},
+	{
+		"id": 26601,
+		"agentId": 61604,
+		"title": "Venha aproveitar Guarapari",
+		"slug": "eum-voluptas-tempore",
+		"content": "Natus provident voluptatum quibusdam minima non officiis beatae. Nobis est architecto sequi laboriosam id maiores harum et. Quo dolores consequuntur nostrum ullam sapiente asperiores itaque dolores. Et nobis voluptatem dolores corrupti accusantium. Magni voluptas quis inventore.",
+		"status": "draft",
+		"price": "560",
+		"isNegotiable": false,
+		"propertyType": "Villa",
+		"condition": "Average",
+		"rating": 4.5,
+		"ratingCount": 5,
+		"contactNumber": "150.663.2821",
+		"amenities": [
+			{
+				"id": 70472,
+				"guestRoom": 6
+			},
+			{
+				"id": 88236,
+				"bedRoom": 6
+			},
+			{
+				"id": 29649,
+				"wifiAvailability": true
+			},
+			{
+				"id": 70319,
+				"parkingAvailability": true
+			},
+			{
+				"id": 78746,
+				"poolAvailability": false
+			},
+			{
+				"id": 78269,
+				"airCondition": true
+			},
+			{
+				"id": 95269,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 22340,
+			"url": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/26/79/2679442_v1.jpeg"
+		},
+		"location": {
+			"id": 81726,
+			"lat": 44.0543,
+			"lng": -71.393,
+			"formattedAddress": "Com almoço e jantar",
+			"zipcode": "85094-6329",
+			"city": "Lake Taylorstad",
+			"state_long": "West Virginia",
+			"state_short": "IA",
+			"country_long": "Botswana",
+			"country_short": "DO"
+		},
+		"gallery": [
+			{
+				"id": 70509,
+				"url": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/26/79/2679442_v1.jpeg"
+			},
+			{
+				"id": 32412,
+				"url": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/26/79/2679442_v1.jpeg"
+			},
+			{
+				"id": 12967,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12_thumb.jpg"
+			}
+		]
+	}
+]

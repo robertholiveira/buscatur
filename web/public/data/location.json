@@ -1,0 +1,87 @@
+[
+	{
+		"id": 85992,
+		"lat": "13.4149",
+		"lng": "8.4034",
+		"formattedAddress": "27384 Tremblay Causeway",
+		"zipcode": "82925",
+		"city": "Cabo Frio",
+		"state_long": "Montana",
+		"state_short": "DE",
+		"country_long": "England",
+		"country_short": "CL",
+		"locationImage": {
+			"id": 63700,
+			"url": "https://c1.wallpaperflare.com/preview/738/82/359/cabo-frio-strong-beach-forte-s%C3%A3o-mateus-rio-de-janeiro.jpg"
+		},
+		"numberOfPost": 54129
+	},
+	{
+		"id": 31657,
+		"lat": "-46.6464",
+		"lng": "-159.9779",
+		"formattedAddress": "0977 Turner Avenue",
+		"zipcode": "54996",
+		"city": "Guarapari",
+		"state_long": "Kansas",
+		"state_short": "FL",
+		"country_long": "United States of America",
+		"country_short": "BZ",
+		"locationImage": {
+			"id": 10311,
+			"url": "https://media-cdn.tripadvisor.com/media/photo-s/01/0b/4c/7d/downtown.jpg"
+		},
+		"numberOfPost": 19236
+	},
+	{
+		"id": 87806,
+		"lat": "-59.8068",
+		"lng": "140.0707",
+		"formattedAddress": "0443 Abshire Ferry",
+		"zipcode": "82618-9791",
+		"city": "Caldas Novas",
+		"state_long": "Pennsylvania",
+		"state_short": "MA",
+		"country_long": "Spain",
+		"country_short": "MP",
+		"locationImage": {
+			"id": 36159,
+			"url": "https://www.curtamais.com.br/uploads/midias/676e35a9298a899df5b9a929cfd252a7.jpg"
+		},
+		"numberOfPost": 45667
+	},
+	{
+		"id": 42541,
+		"lat": "-1.6178",
+		"lng": "169.5870",
+		"formattedAddress": "5274 Wolf Junctions",
+		"zipcode": "91109-9223",
+		"city": "Paraty",
+		"state_long": "South Carolina",
+		"state_short": "NY",
+		"country_long": "Saint Vincent and the Grenadines",
+		"country_short": "FO",
+		"locationImage": {
+			"id": 22545,
+			"url": "https://www.cvc.com.br/dicas-de-viagem/wp-content/uploads/2019/07/Paraty-Topo-Dicas_1363425368.jpg"
+		},
+		"numberOfPost": 37695
+	},
+	{
+		"id": 44180,
+		"lat": "-34.3165",
+		"lng": "-178.7267",
+		"formattedAddress": "1840 Bryana Course",
+		"zipcode": "87809",
+		"city": "Campos do Jordão",
+		"state_long": "New Hampshire",
+		"state_short": "AK",
+		"country_long": "France",
+		"country_short": "SI",
+		"locationImage": {
+			"id": 78277,
+			"url": "https://naturam.com.br/wp-content/uploads/2018/01/campos-do-jordao-naturam.jpg"
+		},
+		"numberOfPost": 23494
+	}
+]
